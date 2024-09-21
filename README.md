@@ -1,2 +1,0 @@
-# wordpress
-My awesome repository
